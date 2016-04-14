@@ -1,11 +1,12 @@
 package me.undownding.docker.model;
 
+import java.io.Serializable;
 import java.util.List;
 
 /**
  * Created by undownding on 16-4-8.
  */
-public class ContainerDetail {
+public class ContainerDetail implements Serializable {
 
     /**
      * Id : 72a1769c41b7e430e54a8f239a8c9451ec71b6f2937fc03e0accd6bce84a2c7b

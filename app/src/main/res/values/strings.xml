@@ -1,5 +1,14 @@
 <resources>
     <string name="app_name">Docker</string>
-    <string name="title_activity_container_list">ContainerListActivity</string>
+    <string name="title_activity_container_list">Container List</string>
     <string name="action_settings">Settings</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_server_ip">Server IP</string>
+    <string name="prompt_server_port">Server Port(default 2378)</string>
+    <string name="action_connect">Connect</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
 </resources>
